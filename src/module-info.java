@@ -1,0 +1,2 @@
+module ssj_7 {
+}
